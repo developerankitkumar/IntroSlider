@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <!--Intro Slider-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Hello There!</string>
+    <string name="slide_1_desc">Welcome to Material Intro Slider</string>
+    <string name="slide_2_title">Android Studio</string>
+    <string name="slide_2_desc">Support with android studio 2.3 &amp; 3.0</string>
+    <string name="slide_3_title">One time slider</string>
+    <string name="slide_3_desc">Slider will came only one time</string>
+    <string name="slide_4_title">That\'s it</string>
+    <string name="slide_4_desc">Would you join us?</string>
+</resources>
